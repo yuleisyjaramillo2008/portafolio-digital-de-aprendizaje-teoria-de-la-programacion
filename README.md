@@ -26,7 +26,9 @@
 > * 💡Ejemplos
 > * 🛠️ Aplicación de lo aprendido
 > * 💻 Ejercicios Prácticos
-> * 🎯Concluciones que enfatizan la importancia la importancia de los conocimientos adquiridos.
+> * 🎯Concluciones que enfatizan la importancia de los conocimientos adquiridos.
 
-## 🗂️ MAPA DE NAVEGAGACIÓN (ÍNDICE)
-**Haz clic para entrar a las carpetas y contenido del protafolio**
+# 🗂️ MAPA DE NAVEGAGACIÓN (ÍNDICE)
+Para explorar los contenidos, resúmenes y ejercicios prácticos. haz clic en el siguiente botón:
+
+[![ACCEDER AL ÍNDICE](https://shields.io)](./index.md)

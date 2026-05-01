@@ -28,7 +28,7 @@
 > * 💻 Ejercicios Prácticos
 > * 🎯Concluciones que enfatizan la importancia de los conocimientos adquiridos.
 
-# 🗂️ MAPA DE NAVEGAGACIÓN (ÍNDICE)
+### 🗂️ MAPA DE NAVEGAGACIÓN (ÍNDICE)
 Para explorar los contenidos, resúmenes y ejercicios prácticos. haz clic en el siguiente botón:
 
 [![ACCEDER AL ÍNDICE](https://shields.io)](./index.md)

@@ -1,4 +1,4 @@
 <div align=center">
-<img src="portada.png.png" width="100%">
+<img src="portada.png" width="100%">
 
 <br>

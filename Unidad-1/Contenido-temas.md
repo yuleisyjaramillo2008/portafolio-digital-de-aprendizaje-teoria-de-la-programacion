@@ -11,7 +11,10 @@ A los algoritmos se los puede definir como una serie de pasos o intrucciónes qu
 ## 1.2 Claisficación 
 | Tipo de algoritmo | Describción | Ejemplos |
 | :--- |:--- |:--- |
-| $${\color{HotPink}🔢 \space Cuantitativos}$$ | $${\color{HotPink}Pasos \space con \space números}$$ | $${\color{HotPink}📐 \space Área, \space 💵 \space IVA}$$ |
+| <span style="color:#FFC0CB">**Cualitativas:**</span> | Implique la descripción a través de frases y palabras | * Reseta de Cosina <br> * Cambiar una llanta |
+
+
+
 
 
 

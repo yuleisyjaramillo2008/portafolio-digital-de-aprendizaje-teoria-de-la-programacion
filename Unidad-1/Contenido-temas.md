@@ -33,9 +33,30 @@ width="100%">
 
 ---
 
-# Formas de representar un algoritmo 
-## Pseudocódigo
+## Formas de representar un algoritmo 
+### Pseudocódigo
 > Son instrucciones escritas bajo cierta estructura y reglas que inducirá al alumno hacia los lenguajes de programación.
+#### Ejemplo
+<div align=center">
+  <img src="../Imagenes/pseudocódigo.png" 
+width="50%">
+</div>
+
+<br>
+
+### Diagrama de flujo 
+> Utiliza símbolos y describen las instrucciones que debe seguir el algoritmo.
+#### Ejemplo
+<div align=center">
+  <img src="../Imagenes/pseudocódigo.png" 
+width="50%">
+</div>
+
+<br>
+
+#### 
+
+
 
 
 

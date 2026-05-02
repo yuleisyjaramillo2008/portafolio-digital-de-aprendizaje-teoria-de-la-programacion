@@ -21,12 +21,8 @@
 ---
 
 ## 🚀 INTRODUCIÓN
-> Este portafolio tiene resumes de todo lo visto en la materia de Teoría de la Programación:
-> * 🗒️ Resumenes
-> * 💡Ejemplos
-> * 🛠️ Aplicación de lo aprendido
-> * 💻 Ejercicios Prácticos
-> * 🎯Concluciones que enfatizan la importancia de los conocimientos adquiridos.
+Este portafolio corresponde a la asignatura de Teoría de Programación y su propósito es organizar todos los temas tratados en esta materia. Se podrán encontrar resúmenes sobre toda la información vista en este ciclo académico (unidad 1, unidad 2 y unidad 3) adicional, se agregan otras secciones como son la práctica y aplicación del conocimiento mediante el desarrollo de ejercicios, planteamiento de ejemplos explicativos y conclusiones.
+En resumen, este portafolio tiene la finalidad de demostrar lo aprendido en esta asignatura, además de tener evidencias sólidas del desarrollo de habilidades a través de las prácticas. 
 
 ## 🗂️ MAPA DE NAVEGAGACIÓN (ÍNDICE)
 Para explorar los contenidos, resúmenes y ejercicios prácticos. haz clic en el siguiente botón:

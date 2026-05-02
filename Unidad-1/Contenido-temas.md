@@ -13,11 +13,12 @@ A los algoritmos se los puede definir como una serie de pasos o intrucciónes qu
 | :--- |:--- |:--- |
 | <span style="color:#4I8E3A">**Cualitativas:**</span> | Implique la descripción a través de frases y palabras | * Receta de Cocina <br> * Cambiar una llanta |
 | <span style="color:#BF0811">**Cuatitativas:**</span> | Se refiere al uso de cálculos o fórmulas matemáticas | *  Calcular el área de un cuadrado <br> * Calcular el promedio de 3 notas |
-## 1.3 Características
+## 1.3. Características
 * **🎯Preciso:** Indicar el orden de cada paso de manera clara y sin ambigüedades.
 * **🔒Definido:** El algoritmo es predecible y exacto.
 * **🔚Finito:** Tiene inicio y fin   
-
+## 1.4. Partes
+![Partes del algoritmo](Imagenes/Partes del algoritmo.png)
 
 
 

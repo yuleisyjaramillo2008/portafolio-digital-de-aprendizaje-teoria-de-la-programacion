@@ -7,8 +7,8 @@
 
 ### 🟢 UNIDAD 1
 
-> * 📚 **[Contenidos](./Unidad-1/contenidos.md)**
-> * 💻 **[Ejercicio](./Unidad-1/ejercicio.md)**
+> * 📚 **[Contenidos](./Unidad-1.md/Contenidos.md)**
+> * 💻 **[Ejercicio](./Unidad-1.md/Ejercicio.md)**
 
 ---
 

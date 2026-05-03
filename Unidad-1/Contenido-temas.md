@@ -153,11 +153,15 @@ Un lenguaje compilado es aquel cuyo código debe ser traducido por completo de u
 * Una vez creado ese archivo, la computadora lo corre directamente sin necesidad de volver a leer el código original.
 ### 3.1.6. Lenguaje interpretado
 Es aquel en el que el código no se traduce por completo de antemano, sino que un programa llamado intérprete lo lee y lo ejecuta línea por línea en tiempo real.
+
+<br> 
+
 <div align="center">
-<img src="../Contenidos.png" 
-width="100%">*
-<br>
+<img src="../Imagenes/copilado_y_interpretado.webp" 
+width="50%">*
   
+<br>
+
 **Relación entre Lenguaje Interpretado y Lenguaje copilado**
 
 
@@ -174,6 +178,24 @@ width="100%">*
 
 <br>
 
+## 4.1. ¿Qué es la programación de bloques?
+La programción de bloques es una forma de programación en el que no se tiene que escribir códigos ni opalabras especializadas de manera manual, sino, que usa piezas visuales, las cuales se tiene que conectar a manera de rompecabezas para crear un algoritmo.
+## 4.2. Ventajas 
+* **Aprender a programar:** Es la puerta de entrada ideal para niños y principiantes porque elimina la frustración de cometer errores de escritura.
+* **Desarrollo rápido:** Permite crear juegos, animaciones o aplicaciones sencillas de forma muy veloz.
+* **Visualizar algoritmos:** Ayuda a entender conceptos complejos de programación de manera visual y entretenida
+## 4.2. Características 
+* Interfaz Visual (No se escribe texto).
+* Funciona al conectar las piezas evitando así errores en la redacción.
+* Al eliminar la necesidad de recordar reglas gramaticales, el usuario se concentra totalmente en cómo resolver el problema.
+## 4.3. Ejemplos:
+* **Scratch:** <br>
+  Es un lenguaje de programación visual y una comunidad en línea gratuita diseñada para que cualquier persona, especialmente niños y adolescentes de entre 8 y 16 años, pueda aprender a programar de forma lúdica y creativa.
+<div align="center">
+<img src="../Imagenes/copilado_y_interpretado.webp" 
+width="50%">
+
+<br>
 
 
   

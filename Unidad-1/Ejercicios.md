@@ -29,7 +29,7 @@ Observando los datos de salida se comprueba que el problema esta resuelto.
 *Para el diseño de algoritmo se utiliza PSeInt* <br>
 ## Pseudocódigo
 **Si quiero ingresar al documento donde esta el algoritmo haga click aquí:**
-![Algoritmo en PSeInt](../programas/sueldosEmpleados.psc)
+![Algoritmo en PSeInt](../programas/sueldosEmpleados.psc) <br>
 
 Algoritmo sueldosEmpleados
 	//Datos de entrada 

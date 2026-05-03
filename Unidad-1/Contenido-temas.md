@@ -31,12 +31,19 @@ width="100%">
 
 <br>
 
----
-
-## Formas de representar un algoritmo 
-### Pseudocódigo
-> Son instrucciones escritas bajo cierta estructura y reglas que inducirá al alumno hacia los lenguajes de programación.
-#### Ejemplo
+## 1.6. Formas de representar un algoritmo 
+### 1.6.1. Pseudocódigo
+> Es una forma de representar algoritmos utilizando una mezcla de lenguaje natural (español/inglés) y estructuras de programación, actuando como un borrador lógico. No es ejecutable por la computadora, pero permite planificar la lógica sin restricciones sintácticas.
+#### 1.6.1.1. *Características:*
+* **Legibilidad:** Está diseñado para ser entendido fácilmente.
+* **Estructura:** Utiliza estructuras similares a lenguajes reales.
+* **Secuencial:** Las instrucciones sique un orden lógico.
+#### 1.6.1.2. *Objetivo:*
+* Ayuda a los programadores a centrarse en la lógica del problema en lugar de la sintaxis.
+* Funciona como un boceto antes de escribir el código fuente final.
+* Permite explicar algoritmos a personas no técnicas o a otros desarrolladores.
+*  Ayuda a encontrar fallos lógicos temprano.
+#### 1.6.1.3. *Ejemplo:*
 <div align=center">
   <img src="../Imagenes/pseudocódigo.png" 
 width="50%">
@@ -44,17 +51,28 @@ width="50%">
 
 <br>
 
-### Diagrama de flujo 
+### 1.6.2. Diagrama de flujo 
 > Utiliza símbolos y describen las instrucciones que debe seguir el algoritmo.
-#### Ejemplo
+#### 1.6.2.1. *Caracteristicas:*
+* **Visualización clara:** Sustituye descripciones textuales largas por imágenes, facilitando la comprensión.
+* **Beneficios:** Ayuda a identificar problemas, duplicidades, cuellos de botella y oportunidades de mejora en un procedimiento.
+#### 1.6.2.1. *Símbolos:*
 <div align=center">
-  <img src="../Imagenes/pseudocódigo.png" 
+  <img src="../Imagenes/diagrama.png" 
 width="50%">
 </div>
 
 <br>
 
-#### 
+#### 1.6.2.2. *Ejemplo:*
+<div align=center">
+  <img src="../Imagenes/diagrama.png" 
+width="50%">
+</div>
+
+<br>
+
+
 
 
 

@@ -194,14 +194,16 @@ La programción de bloques es una forma de programación en el que no se tiene q
 <div align="center">
 <img src="../Imagenes/scratch.png" 
 width="50%">
+</div>
 
 <br>
 
 * **PilasBloques** <br>
 Es una herramienta educativa gratuita, desarrollada en Argentina por la Fundación Sadosky, diseñada para enseñar a programar a través de desafíos o "puzles" lógicos. Es ideal para dar los primeros pasos en el pensamiento computacional antes de pasar a herramientas más complejas como Scratch o Python.
 <div align="center">
-<img src="../Imagenes/scratch.png" 
+<img src="../Imagenes/pilasBloques.png" 
 width="50%">
+</div>
 
 <br>
 

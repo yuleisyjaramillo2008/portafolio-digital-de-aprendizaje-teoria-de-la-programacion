@@ -111,6 +111,9 @@ Proceso manual para verificar que la lógica de un algoritmo o diagrama de flujo
 
 ---
 
+# Lenguajes de programación 
+| 
+
 
 
 

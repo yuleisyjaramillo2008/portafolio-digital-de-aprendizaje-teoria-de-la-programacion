@@ -1,4 +1,4 @@
-<div align=center">
+<div align="center">
   <img src="../Contenidos.png" 
 width="100%">
 </div>
@@ -24,7 +24,7 @@ A los algoritmos se los puede definir como una serie de pasos o intrucciónes qu
 * **🔒Definido:** El algoritmo es predecible y exacto.
 * **🔚Finito:** Tiene inicio y fin   
 ## 1.5. Partes y ejemplo de algoritmo
-<div align=center">
+<div align="center">
   <img src="../Imagenes/parteAlgoritmo.png.png" 
 width="100%">
 </div>
@@ -44,7 +44,7 @@ width="100%">
 * Permite explicar algoritmos a personas no técnicas o a otros desarrolladores.
 *  Ayuda a encontrar fallos lógicos temprano.
 #### 1.6.1.3. *Ejemplo:*
-<div align=center">
+<div align="center">
   <img src="../Imagenes/pseudocódigo.png" 
 width="50%">
 </div>
@@ -57,7 +57,7 @@ width="50%">
 * **Visualización clara:** Sustituye descripciones textuales largas por imágenes, facilitando la comprensión.
 * **Beneficios:** Ayuda a identificar problemas, duplicidades, cuellos de botella y oportunidades de mejora en un procedimiento.
 #### 1.6.2.1. *Símbolos:*
-<div align=center">
+<div align="center">
   <img src="../Imagenes/formas.png" 
 width="100%">
 </div>
@@ -65,7 +65,7 @@ width="100%">
 <br>
 
 #### 1.6.2.2. *Ejemplo:*
-<div align=center">
+<div align="center">
   <img src="../Imagenes/diagrama.png" 
 width="50%">
 </div>
@@ -111,9 +111,72 @@ Proceso manual para verificar que la lógica de un algoritmo o diagrama de flujo
 
 ---
 
-# Lenguajes de programación 
-| 
+# 3. Lenguajes de programación 
+<div align="center">
+  <img src="../Imagenes/herramienta_1.jpg" 
+width="25%">
+</div>
 
+<br>
+
+Un lenguaje de programación es un conjunto de reglas, símbolos y palabras especiales que permiten al ser humano darle instrucciones a una computadora. 
+La computadora solo entiende lo que es el **lenguje binario** (una convinación de 1 y 0 ) y las personas tenemos nuestros propios idiomas, por lo que, es complicado darle instruciones a una computadora (programa), es ahí donde estan los lenguajes de programación, estas herramientas son como el **traductor** que permite a la computadora entendernos, es decir, convierte instruciones hechas con lenguaje humano en 0 y 1. 
+## 3.1. Clasificación 
+### 3.1.1 Lenguaje máquina:
+El lenguaje de máquina es el nivel más básico y "nativo" que entiende una computadora. Es el único idioma que los circuitos del procesador pueden ejecutar directamente.
+* Se compone exclusivamente de una secuencia de ceros (0) y unos (1).
+* Estos representan estados eléctricos (encendido/apagado).
+#### Ejemplo:
+  **5+3=**  <br>
+  10111000 00000101 00000000 (Carga el 5)  <br>
+  10111011 00000011 00000000 (Carga el 3)  <br>
+  00000001 11011000 (Súmalos)   <br>
+### 3.1.2. Lenguaje bajo nivel:
+Un lenguaje de bajo nivel es hablarle a la computadora "en su propio idioma".En lugar de darle órdenes generales (como "reproducir un video"), hay que darle instrucciones paso a paso sobre cómo debe mover la electricidad y los datos dentro de sus piezas (el procesador y la memoria).
+* **Lenguaje Ensamblador:** (Tipo de LENGUAJE DE BAJO NIVEL) Es el que usa los mnemotécnicos (abreviaturas) que mencionaste antes. Es una traducción directa del binario a palabras cortas para que un humano pueda leerlo.
+* **Ejemplo:** MOV AL, 61h (Mueve el valor 61 al registro AL).
+### 3.1.3. Lenguaje alto nivel
+Es un lenguaje de programación diseñado para que los humanos podamos escribir instrucciones de forma lógica y natural, utilizando palabras del idioma inglés (como if, while, print, return) en lugar de códigos técnicos complicados. <br>
+**Ejemplo:** <br>
+* Phyton
+* Java
+### 3.1.4. Lenguaje algorítmico
+Es una forma de redactar la solución a un problema utilizando acciones primitivas (instrucciones básicas como leer, escribir o calcular) tomadas de nuestro lenguaje natural. Esto permite que el algoritmo se escriba en español, facilitando que cualquier persona entienda la lógica del proceso antes de traducirlo a un lenguaje de programación real. <br>
+**Ejemplo:** <br>
+La instrucción de restar sería 19-11=8
+
+---
+
+### 3.1.5. Lenguaje compilado
+Un lenguaje compilado es aquel cuyo código debe ser traducido por completo de una sola vez por un programa llamado compilador, antes de que la computadora pueda entenderlo o ejecutarlo.
+* Escribes tu código, el compilador lo lee todo, lo revisa y genera un archivo nuevo (el ejecutable o .exe).
+* Una vez creado ese archivo, la computadora lo corre directamente sin necesidad de volver a leer el código original.
+### 3.1.6. Lenguaje interpretado
+Es aquel en el que el código no se traduce por completo de antemano, sino que un programa llamado intérprete lo lee y lo ejecuta línea por línea en tiempo real.
+<div align="center">
+<img src="../Contenidos.png" 
+width="100%">*
+<br>
+  
+**Relación entre Lenguaje Interpretado y Lenguaje copilado**
+
+
+
+</div>
+
+
+---
+<div align="center">
+  
+# 4. PROGRAMACIÓN POR BLOQUES
+
+</div>
+
+<br>
+
+
+
+  
 
 
 

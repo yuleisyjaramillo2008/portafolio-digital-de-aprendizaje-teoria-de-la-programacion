@@ -32,6 +32,7 @@ Observando los datos de salida se comprueba que el problema esta resuelto.
 ![Algoritmo en PSeInt](../programas/sueldosEmpleados.psc) <br>
 
 Algoritmo sueldosEmpleados
+
 	//Datos de entrada 
 	Definir sueldoNeto1, sueldoNeto2, sueldoNeto3 Como Real;
 	Definir sueldoBruto1, sueldoBruto2, sueldoBruto3 Como Real;
@@ -73,13 +74,29 @@ Algoritmo sueldosEmpleados
 	Escribir "El sueldo total del segundo empleado es de: ", sueldoNeto2;
 	Escribir "El sueldo total del tercer empleado es de: ", sueldoNeto3;
 	Escribir "Lo que el dueño tiene que pagar en sueldos este mes es de: ", sueldoTotal;
-	
+		
 FinAlgoritmo <br>
 **Terminal:**
 <div align="center">
   <img src="../programas/terminal.png" 
-width="100%">
+width="50%">
 </div>
 
 <br>
 
+## Digrama de flujo
+<div align="center">
+  <img src="../programas/terminal.png" 
+width="50%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="../programas/terminal.png" 
+width="50%">
+</div>
+
+<br>
+
+# Codificación

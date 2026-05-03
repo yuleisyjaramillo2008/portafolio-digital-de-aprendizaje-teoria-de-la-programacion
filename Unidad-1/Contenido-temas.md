@@ -207,6 +207,14 @@ width="50%">
 
 <br>
 
+* **Blokly.games** <br>
+Es una serie de juegos educativos desarrollados por Google para enseñar los fundamentos de la programación a personas que no tienen experiencia previa. Es una plataforma gratuita y de código abierto que sirve como preparación para dar el salto a lenguajes de programación basados en bloques.
+<div align="center">
+<img src="../Imagenes/Blockly.games.png" 
+width="50%">
+</div>
+
+<br>
 
   
 

@@ -58,8 +58,8 @@ width="50%">
 * **Beneficios:** Ayuda a identificar problemas, duplicidades, cuellos de botella y oportunidades de mejora en un procedimiento.
 #### 1.6.2.1. *Símbolos:*
 <div align=center">
-  <img src="../Imagenes/diagrama.png" 
-width="50%">
+  <img src="../Imagenes/formas.png" 
+width="100%">
 </div>
 
 <br>
@@ -71,6 +71,48 @@ width="50%">
 </div>
 
 <br>
+
+## 1.7. Elementos de algoritmos
+### 1.7.1. Datos
+Son información sobre algo, puede ser: una letra, símbolo, número, palabra, etc. Y dependiendo del tipo los datos se almacenan en la compuadora. 
+#### 1.7.1.2. Tipos
+##### Simples
+* **Enteros (int):** 1,2,3,4,5,6,7,8,9...
+* **Reales (float/double):** 1,44443; 2/3...
+* **Carácter (char):** a, B, -...
+* **Lógicos (boolean):** TRUE/FALSE
+##### Compuestos
+* **Cadena**: Conjunto de carácteres.
+### 1.7.2. Identificador
+Su propócito es identificar un objeto del programa, pueden ser varibles o constantes.
+> ***Variables:*** Este tipo de identificador guarda un valor, el cual, se puede modificar durante el programa. 
+> ***Constantes:*** Este tipo de indentificador también guarda un valor, pero a diferencia de una variable esta no cambia durante la ejecución del algoritmo. 
+
+---
+
+# 2. Prueba de escritorio
+## Definición
+Proceso manual para verificar que la lógica de un algoritmo o diagrama de flujo funciona correctamente, sirve para:
+* Detectar errores
+* Verificar resultados
+* Comprender el flujo
+## Ejemplo
+| Paso | peso | altura | masa_corporal | Pantalla (Salida) |
+| :--- | :--- | :--- | :--- | :--- |
+| 1.Inicio | | | | (Inicio del algoritmo) |
+| 2.Definir variables | 0.0 |0.0 | 0.0 | | 
+| 3. Entrada | - | - | - | "ingresar su peso en kg" |
+| 4. Leer peso | 70 | - | - | - |
+| 5. Entrada| - | - | - | "ingresar su altura en metros" | 
+| 6. Leer altura| 70 | 1.75 | - | - |
+| 7. Proceso (Cálculo) | 70 | 1.75 | 22.85 | (Se calcula: \(70 / (1.75 \times 1.75)\)) 
+| 8. Salida | 70 | 1.75 | 22.85 | "Su masa corporal o ICM es: 22.85" |
+| 9. Fin | - | - | - | (Fin del algoritmo) |
+
+---
+
+
+
 
 
 

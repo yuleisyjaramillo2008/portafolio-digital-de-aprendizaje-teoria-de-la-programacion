@@ -192,7 +192,15 @@ La programción de bloques es una forma de programación en el que no se tiene q
 * **Scratch:** <br>
   Es un lenguaje de programación visual y una comunidad en línea gratuita diseñada para que cualquier persona, especialmente niños y adolescentes de entre 8 y 16 años, pueda aprender a programar de forma lúdica y creativa.
 <div align="center">
-<img src="../Imagenes/copilado_y_interpretado.webp" 
+<img src="../Imagenes/scratch.png" 
+width="50%">
+
+<br>
+
+* **PilasBloques** <br>
+Es una herramienta educativa gratuita, desarrollada en Argentina por la Fundación Sadosky, diseñada para enseñar a programar a través de desafíos o "puzles" lógicos. Es ideal para dar los primeros pasos en el pensamiento computacional antes de pasar a herramientas más complejas como Scratch o Python.
+<div align="center">
+<img src="../Imagenes/scratch.png" 
 width="50%">
 
 <br>

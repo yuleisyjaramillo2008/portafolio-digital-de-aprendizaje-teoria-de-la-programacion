@@ -169,6 +169,7 @@ int main(){
 <br>
 
 > Analizando los contenidos vistos y las practicas llevadas a cabo se define lo sigiente: En general deido a la buena explicación de los temas por parte del docente de la materia, se puede afirmar que en su mayoría no ha habido dificultades en la comprención de los temas de esta unidad, sin embargo se recalca que no todas las procaticas han estado libres de dificultades, entre ellas esta la aplicación de lo ques el lenguje C, ya que, por la falta de practica por parte de mi persona se ha cometido multiples errores en lo que es la creación de progrmas, lo que ha ocasionado fallas al momento de llevar a cabo el algoritmo.
-> Por otro lado un tema que si siento que hubo una ausencia de ejemplos practicos es la creación de tablas de verdad.
-De click para sequir con el orden de este portafolio:
+> Por otro lado un tema que si siento que hubo una ausencia de ejemplos practicos es la creación de tablas de verdad. <br>
+
+De click para seguir con el orden de este portafolio:
 ![Conclusiones](../Anexos.md) <br> 

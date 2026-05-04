@@ -86,14 +86,10 @@ width="50%">
 
 ## Digrama de flujo
 <div align="center">
-  <img src="../programas/terminal.png" 
+  <img src="../programas/diagramaFlujo1.png" 
 width="50%">
-</div>
 
-<br>
-
-<div align="center">
-  <img src="../programas/terminal.png" 
+  <img src="../programas/diagramaFlujo2.png" 
 width="50%">
 </div>
 

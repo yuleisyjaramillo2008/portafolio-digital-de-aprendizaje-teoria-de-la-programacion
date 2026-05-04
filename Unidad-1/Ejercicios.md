@@ -96,3 +96,79 @@ width="50%">
 <br>
 
 # Codificación
+Para la codificación se lo hace por el lenguaje C
+![Programa en C](../programas/sueldosEmpleados.c) <br>
+#include <stdio.h>
+int main(){
+
+    //Variables
+    float sueldoNeto1, sueldoNeto2, sueldoNeto3;
+	float sueldoBruto1, sueldoBruto2, sueldoBruto3;
+	float sueldoTotal, sueldoHora;
+	float horas1, horas2, horas3;
+	float sueldoMes, horasHipoteticas;
+    float diasTrabajadosH, sueldoHipotetico;
+
+    //Entrada
+    printf("Ingrese la cantidad de horas trabajadas de empleado 1\n");
+	scanf("%f", &horas1);
+	printf("Ingrese la cantidad de horas trabajadas de empleado 2\n");
+	scanf("%f", &horas2);
+	printf("Ingrese la cantidad de horas trabajadas de empleado 3\n");
+	scanf("%f", &horas3);
+
+    //Proceso
+    //Sueldo por hora 
+	sueldoMes=600;
+	diasTrabajadosH=20;
+	horasHipoteticas=diasTrabajadosH*8;
+	sueldoHora=(sueldoMes)/horasHipoteticas;
+	
+	//Sueldos Brutos
+	sueldoBruto1=horas1*sueldoHora;
+	sueldoBruto2=horas2*sueldoHora;
+	sueldoBruto3=horas3*sueldoHora;
+	
+	//Sueldos Netos
+	sueldoNeto1=sueldoBruto1-(sueldoBruto1*0.08);
+	sueldoNeto2=sueldoBruto2-(sueldoBruto2*0.08);
+	sueldoNeto3=sueldoBruto3-(sueldoBruto3*0.08);
+
+    //Sueldo Total
+	sueldoTotal=sueldoNeto1+sueldoNeto2+sueldoNeto3;
+
+    //Salida
+    printf("El sueldo por hora es de: %f\n", sueldoHora);
+	printf("El sueldo total del primer empleado es de: %f\n", sueldoNeto1);
+	printf("El sueldo total del segundo empleado es de: %f\n", sueldoNeto2);
+	printf("El sueldo total del tercer empleado es de: %f\n", sueldoNeto3);
+	printf("Lo que el dueño tiene que pagar en sueldos este mes es de: %f\n", sueldoTotal);
+
+
+    return 0;
+}
+# Validación
+| Paso | sueldoHora | sueldoBruto1 | sueldoBruto2 | sueldoBruto3 | sueldoNeto1 | sueldoNeto2 | sueldoNeto3 | sueldoTotal |  Pantalla (Salida) |
+|:--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | 
+| 1. Entrada | - | - | - | - | - | - | - | - | (Se ingresan 160, 80, 320) |
+| 2. Calc.Hora | 3.75 | - | - | - | - | - | - | - | - |
+| 3. Brutos | 3.75 | 600.0 | 300.0 | 1200.0 | - | - | - | - | - |
+| 4. Netos | 3.75 | 600.0 | 300.0 | 1200.0 | 552.0 | 276.0 | 1104.0 | - | - |
+| 5. Total | 3.75 | 600.0 | 300.0 | 1200.0 | 552.0 | 276.0 | 1104.0 | 1932.0 | - |
+| 6. Salida1 | 3.75 | 600.0 | 300.0 | 1200.0 | 552.0 | 276.0 | 1104.0 | 1932.0 | "Sueldo hora: 3.750000" |
+| 7. Salida2 | 3.75 | 600.0 | 300.0 | 1200.0 | 552.0 | 276.0 | 1104.0 | 1932.0 | "Sueldo emp 1: 552.000000" | 
+| 8. Salida3 | 3.75 | 600.0 | 300.0 | 1200.0 | 552.0 | 276.0 | 1104.0 | 1932.0 | "Sueldo emp 2: 276.000000" |
+| 9. Salida4 | 3.75 | 600.0 | 300.0 | 1200.0 | 552.0 | 276.0 | 1104.0 | 1932.0 | "Sueldo emp 3: 1104.000000" |
+| 10. Final | 3.75 | 600.0 | 300.0 | 1200.0 | 552.0 | 276.0 | 1104.0 | 1932.0 | "Total a pagar: 1932.000000" |
+
+<div align="center">
+	
+# Principales dificultades y reflexión crítica en la aplicación de los contenidos.
+</div>
+
+<br>
+
+> Analizando los contenidos vistos y las practicas llevadas a cabo se define lo sigiente: En general deido a la buena explicación de los temas por parte del docente de la materia, se puede afirmar que en su mayoría no ha habido dificultades en la comprención de los temas de esta unidad, sin embargo se recalca que no todas las procaticas han estado libres de dificultades, entre ellas esta la aplicación de lo ques el lenguje C, ya que, por la falta de practica por parte de mi persona se ha cometido multiples errores en lo que es la creación de progrmas, lo que ha ocasionado fallas al momento de llevar a cabo el algoritmo.
+> Por otro lado un tema que si siento que hubo una ausencia de ejemplos practicos es la creación de tablas de verdad.
+De click para sequir con el orden de este portafolio:
+![Conclusiones](../Anexos.md) <br> 

@@ -7,10 +7,10 @@
 ## Unidad 3
 # Bibliografía 
 ## Unidad 1
-[1]A. Duch, “Análisis de Algoritmos”. Disponible: https://www.cs.upc.edu/~duch/home/duch/analisis.pdf
-‌[2]A. Del Prado y N. Lamas, “Alternativas para la enseñanza de pseudocódigo y diagrama de flujo”. Disponible: https://exactas.unca.edu.ar/riecyt/VOL%205%20NUM%203/F%20%20SI%203%2014%20Trabajo%20Completo%20Fundamentos.pdf
-‌[3]JI GALARZA ALAY y RP CARRIEL SEVILLANO, “Evolución de los sistemas de lenguaje de programación a lo largo de la historia”, E-IDEA Journal of Engineering Science , junio de 2022, doi: https://doi.org/10.53734/esci.vol4.id237.
-[4]HC Ahumada, DA Rivas, N. Contreras, M. Marta y PM Valeria, “Pensamiento computacional mediante programación por bloques: intervención didáctica usando pilas bloques”, Unlp.edu.ar , 2018, doi: http://sedici.unlp.edu.ar/handle/10915/68910.
+[1]A. Duch, “Análisis de Algoritmos”. Disponible: https://www.cs.upc.edu/~duch/home/duch/analisis.pdf <br>
+‌[2]A. Del Prado y N. Lamas, “Alternativas para la enseñanza de pseudocódigo y diagrama de flujo”. Disponible: https://exactas.unca.edu.ar/riecyt/VOL%205%20NUM%203/F%20%20SI%203%2014%20Trabajo%20Completo%20Fundamentos.pdf <br>
+‌[3]JI GALARZA ALAY y RP CARRIEL SEVILLANO, “Evolución de los sistemas de lenguaje de programación a lo largo de la historia”, E-IDEA Journal of Engineering Science , junio de 2022, doi: https://doi.org/10.53734/esci.vol4.id237. <br>
+[4]HC Ahumada, DA Rivas, N. Contreras, M. Marta y PM Valeria, “Pensamiento computacional mediante programación por bloques: intervención didáctica usando pilas bloques”, Unlp.edu.ar , 2018, doi: http://sedici.unlp.edu.ar/handle/10915/68910. <br>
 ## Unidad 2
 ## Unidad 3
 # Declaración de uso de la IA generativa

@@ -20,7 +20,7 @@ Las **estructuras condicionales simples** igual que todas las otras estructuras 
 <by>
 
 ### 1.1.3 📝 Pseudocódigo
-El condicional siimple en pseudocódigo se lo representa como "Si".
+El condicional simple en pseudocódigo se lo representa como "Si... entonces".
 <div align="center"><img src="Imagenes/carbon.png" width="50%"></div>
 
 <br>
@@ -33,4 +33,10 @@ La **estructura condicional doble** al igual que la simple evalúa una condició
 > + El programa solo puede tomar uno de los dos caminos. <br>
 
 ### 1.2.2 📊 Diagrama de flujo
-<div align="center"><img src="Imagenes/carbon.png" width="50%"></div>
+<div align="center"><img src="Imagenes/Doble.drawio.png" width="50%"></div>
+
+<br>
+
+### 1.2.3 📝 Pseudocódigo
+El condicional doble en pseudocódico se lo representa como "Si... entonces...sino".
+<div align="center"><img src="Imagenes/Doble.drawio.png" width="50%"></div>

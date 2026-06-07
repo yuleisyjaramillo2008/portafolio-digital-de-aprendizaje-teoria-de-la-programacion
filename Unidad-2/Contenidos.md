@@ -15,4 +15,11 @@ Las **estructuras condicionales simples** igual que todas las otras estructuras 
 > + La palabra que representa es **”Si”**, pero como instrucción se usa el **”If”**. <br>
 > + Tiene flujo lineal, es decir, si la condición es falsa el programa continúa. <br>
 ### 1.1.2 📊 Diagrama de flujo 
-<div align="center"><img src="Imagenes/Contenidos-Unidad2.png.png" width="100%"></div>
+<div align="center"><img src="Imagenes/Simple.drawio.png" width="50%"></div>
+
+<by>
+
+### 1.1.3 📝 Pseudocódigo
+El condicional siimple en pseudocódigo se lo representa como "Si".
+<div align="center"><img src="Imagenes/Simple.drawio.png" width="50%"></div>
+

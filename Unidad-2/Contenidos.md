@@ -21,5 +21,16 @@ Las **estructuras condicionales simples** igual que todas las otras estructuras 
 
 ### 1.1.3 📝 Pseudocódigo
 El condicional siimple en pseudocódigo se lo representa como "Si".
-<div align="center"><img src="Imagenes/Simple.drawio.png" width="50%"></div>
+<div align="center"><img src="Imagenes/carbon.png" width="50%"></div>
 
+<br>
+
+## 1.2 Estructuras condicionales dobles
+La **estructura condicional doble** al igual que la simple evalúa una condición lógica, pero a diferencia de la anterior esta estructura ofrece dos caminos diferentes según el valor que tenga la condición, es decir, si la condición es verdadera ejecuta ciertos bloques de códigos, pero si toma el valor de falsa ejecuta otros bloques de código. 
+
+### 1.2.1 Características 
+> + Ofrece dos caminos alternativos evaluando una condición <br>
+> + El programa solo puede tomar uno de los dos caminos. <br>
+
+### 1.2.2 📊 Diagrama de flujo
+<div align="center"><img src="Imagenes/carbon.png" width="50%"></div>

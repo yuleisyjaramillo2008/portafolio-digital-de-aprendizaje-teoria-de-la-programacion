@@ -112,3 +112,6 @@ Las tres partes:
 
 ### 2.1.2 📝 Pseudocódigo
 En pseudocódigo se representa en Ciclo Para como "Para":
+<div align="center"><img src="Imagenes/carbon (3).png" width="50%"></div>
+
+<br>

@@ -47,9 +47,19 @@ El condicional doble en pseudocódico se lo representa como "Si... entonces...si
 La **estructura condicional múltiple** evalúa una condición y mos permite escoger entre dos y más opciones, esta estructura es diferente a las dos anteriores, debido a que, al evaluar la condición esta no tiene que tener un valor de booleano (true/ false) sino que una variable toma valores enteros, reales o de carácter. 
 
 ### 1.3.1 Características 
-> + Compara una variable o expresión según los valores qeu puede tener.
+> + Compara una variable o expresión según los valores que puede tener.
 > + Tiene un bloque opcional que se activa si ninguna de las onpciones angeriores coincide.
 > + La variable o expresión tiene qeu tomar el valor de entero, reales o caracter. <br>
 
 ### 1.3.2 📊 Diagrama de flujo
-<div align="center"><img src="Imagenes/Multiples.drawio(3).png" width="50%"></div>
+<div align="center"><img src="Imagenes/Multiple.drawio (3).png" width="50%"></div>
+
+<br>
+
+### 1.3.3 📝 Pseudocódigo
+En pseudocódigo la estructura cpndicional multiple es  "segun hacer".
+<div align="center"><img src="Imagenes/Multiple.drawio (3).png" width="50%"></div>
+
+<br>
+
+

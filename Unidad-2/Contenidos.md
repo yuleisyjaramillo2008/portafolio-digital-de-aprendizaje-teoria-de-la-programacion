@@ -73,7 +73,7 @@ También se le llama **bucle**.
 Esta estrucrura repetitiva permite ejecutar bloques de código de manera repetitiva hasta que la condición qeu evalua sea falsa, es decir, evalua na condición si esta es verdadera entra al ejecutar el código dentro del bucle pero si es fasa ignora la estrucrura repetitiva y sigue con el programa.
 
 ### 2.1.1 Características 
-> + Verifica la acondición hantes de ejecutar.
+> + Verifica la acondición antes de ejecutar.
 > + Si la condición es desde el inicio falsa, las instrucuiones dentro del bucle nunca se ejecuta.
 
 ### 2.1.2 📊 Diagrama de flujo
@@ -92,7 +92,7 @@ En si se ejecuta de una forma similar al ciclo mientras, es decir, qeu evalua un
 
 ### 2.2.1 Características
 > + Evalua la condición al final del ciclo.
-> + Garantiza qeu se ejecute una ves el código dentro del bicle.
+> + Garantiza que se ejecute una ves el código dentro del bicle.
 
 ### 2.2.2 📊 Diagrama de flujo
 <div align="center"><img src="Imagenes/Hacer_Mientras.drawio.png" width="50%"></div>

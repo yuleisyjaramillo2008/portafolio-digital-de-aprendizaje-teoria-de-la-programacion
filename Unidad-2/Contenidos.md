@@ -82,7 +82,10 @@ Esta estrucrura repetitiva permite ejecutar bloques de código de manera repetit
 <br>
 
 ### 2.1.2 📝 Pseudocódigo
-El ciclo mientras en pseudocódigo se lo representaca como "mientras":
+El ciclo mientras en pseudocódigo se lo representaca como "Mientras":
+<div align="center"><img src="Imagenes/carbon (3).png" width="50%"></div>
+
+<br>
 
 ## 2.2 Ciclo Hacer Mientras (Do...while)
 En si se ejecuta de una forma similar al ciclo mientras, es decir, qeu evalua una condición y si esta es verdader ejecuta de nuevo el código y si es false sale del bucle, Pero a diferencia de la estructura antrior, esta primero ejecuta (una sola ves) y luego evalua la condición (para ejecutar de nu2vo), en otras palabras garantiza que el códgo haya sido ejecutado por lo menos una ves, 
@@ -98,6 +101,9 @@ En si se ejecuta de una forma similar al ciclo mientras, es decir, qeu evalua un
 
 ### 2.1.2 📝 Pseudocódigo
 En pseudocódigo se representa en Ciclo Hacer Mientras como "Hacer...Mientras":
+<div align="center"><img src="Imagenes/carbon (4).png" width="50%"></div>
+
+<br>
 
 ## Ciclo Para (for)
 El Ciclo Para es usado cuando se conoce el número exacto de veces qye se va a ingresar al bucle. Además, este bucle a dierencia de los anteriores no solo se evalua la condición despues de la palabra "for" sino que se inicializa un contador, se define la condición y se define el incremento y el decremento. <br>

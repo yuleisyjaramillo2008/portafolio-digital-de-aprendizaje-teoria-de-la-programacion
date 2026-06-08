@@ -83,7 +83,7 @@ Esta estrucrura repetitiva permite ejecutar bloques de código de manera repetit
 
 ### 2.1.2 📝 Pseudocódigo
 El ciclo mientras en pseudocódigo se lo representaca como "Mientras":
-<div align="center"><img src="Imagenes/carbon (3).png" width="50%"></div>
+<div align="center"><img src="Imagenes/carbon (5).png" width="50%"></div>
 
 <br>
 

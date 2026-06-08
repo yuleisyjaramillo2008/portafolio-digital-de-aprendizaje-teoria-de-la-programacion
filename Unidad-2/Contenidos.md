@@ -52,4 +52,4 @@ La **estructura condicional múltiple** evalúa una condición y mos permite esc
 > + La variable o expresión tiene qeu tomar el valor de entero, reales o caracter. <br>
 
 ### 1.3.2 📊 Diagrama de flujo
-<div align="center"><img src="Imagenes/Multiples.png" width="50%"></div>
+<div align="center"><img src="Imagenes/Multiples.drawio(3).png" width="50%"></div>

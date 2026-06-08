@@ -17,7 +17,7 @@ Las **estructuras condicionales simples** igual que todas las otras estructuras 
 ### 1.1.2 📊 Diagrama de flujo 
 <div align="center"><img src="Imagenes/Simple.drawio.png" width="50%"></div>
 
-<by>
+<br>
 
 ### 1.1.3 📝 Pseudocódigo
 El condicional simple en pseudocódigo se lo representa como "Si... entonces".
@@ -77,6 +77,9 @@ Esta estrucrura repetitiva permite ejecutar bloques de código de manera repetit
 > + Si la condición es desde el inicio falsa, las instrucuiones dentro del bucle nunca se ejecuta.
 
 ### 2.1.2 📊 Diagrama de flujo
+<div align="center"><img src="Imagenes/Mientras.drawio.png" width="50%"></div>
+
+<br>
 
 ### 2.1.2 📝 Pseudocódigo
 El ciclo mientras en pseudocódigo se lo representaca como "mientras":
@@ -89,6 +92,9 @@ En si se ejecuta de una forma similar al ciclo mientras, es decir, qeu evalua un
 > + Garantiza qeu se ejecute una ves el código dentro del bicle.
 
 ### 2.2.2 📊 Diagrama de flujo
+<div align="center"><img src="Imagenes/Hacer_Mientras.drawio.png" width="50%"></div>
+
+<br>
 
 ### 2.1.2 📝 Pseudocódigo
 En pseudocódigo se representa en Ciclo Hacer Mientras como "Hacer...Mientras":
@@ -100,6 +106,9 @@ Las tres partes:
 + **Condición:** Limita el numero de interaciones en el bucle.
 + **Incremento o Decremento:** Es cuanto se le resta al contador.
 ### 2.2.2 📊 Diagrama de flujo
+<div align="center"><img src="Imagenes/Para.drawio.png" width="50%"></div>
+
+<br>
 
 ### 2.1.2 📝 Pseudocódigo
 En pseudocódigo se representa en Ciclo Para como "Para":

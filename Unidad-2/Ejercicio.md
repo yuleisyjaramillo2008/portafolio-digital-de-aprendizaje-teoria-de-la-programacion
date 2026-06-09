@@ -1,3 +1,7 @@
+<div align="center"><img src="Título.png" width="100%"></div>
+
+<br>
+
 # 1. Planteamiento del problema
 Las empresas de envíos procesan miles de paquetes al día. Calcular los precios a mano es lento y causa errores, ya que el costo varía según la distancia, el peso y el tipo de mercancía.
 Este programa automatiza la facturación en ventanilla aplicando las siguientes reglas de negocio:
@@ -110,3 +114,17 @@ int main () {
     return 0;
 }
 ```
+
+# 5. Validación de Datos
+## 5.1. Prueba de escritorio
+
+| Variables | paquetes | i | peso | distancia | Tipo | suma | total | f | p | n | SALIDA |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Proceso | | | suma+=10 | suma+=distancia*1.25 | F : suma+=15 <br> P: suma+=15 <br> | total+=suma | | | | | |
+|  | -5 | | | | | | | | | | |
+|  | 4 | 1 | -34 | | | | | | | | |
+|  | 4 | 1 | 25 | | | 10 | | | | | |
+|  | 4 | 1 | 25 | 0 | | 10 | | | | | |
+|  | 4 | 1 | 25 | 10 | | 10+12.5= 22.5 | | | | | |
+|  | 4 | 1 | 25 | 10 | U | 22.5 | | | | | |
+|  | 4 | 1 | 25 | 10 | F | 22.5+5= 27.5 | 27.5 | 1 | | | Costo individual: 27.5 |

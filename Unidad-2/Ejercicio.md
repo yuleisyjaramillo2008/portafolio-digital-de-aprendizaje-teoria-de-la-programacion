@@ -159,3 +159,7 @@ int main () {
 <div align="center"><img src="Imagenes/Captura de pantalla 2026-06-09 175350.png" width="60%"></div>
 
 <br>
+
+# Principales dificultades y reflexión crítica en la aplicación de los contenidos.
+Analizado los conocimientos al momento de realizar este portafolio, se ha identificado dificultad en lo que es la correcta aplicación de estas estructuras condicionales y repetitivas. <br>
+Sin embargo, considero que todos los temas vistos en esta unidad son de gran importancia en la programación, ya que, no solo nos permite solucionar los problemas que lo requieran, sino, que también nos permiten ahorrar espacio en al momento de elaborar el código, es decir, con esto se puede optimizar los algoritmos. 

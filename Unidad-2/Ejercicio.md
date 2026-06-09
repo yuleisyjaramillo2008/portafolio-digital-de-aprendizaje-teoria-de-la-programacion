@@ -29,6 +29,9 @@ Pala la salida tenemos lo siguiente: <br>
 + El costo total. 
 + Cuantos paquetes de qué tipo hay.
 # 3. Diseño de algoritmo 
+<div align="center"><img src="EjercicioUnidad2(diagrama).drawio.png" width="100%"></div>
+
+<br>
 
 
 # 4. Codificación 

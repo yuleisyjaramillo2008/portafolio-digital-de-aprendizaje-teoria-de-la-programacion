@@ -27,9 +27,11 @@ Además, usamos otro condicional para contar cuantos paquetes son de qué tipo, 
 Pala la salida tenemos lo siguiente: <br>
 + El precio de cada paquete.
 + El costo total. 
-+ Cuantos paquetes de qué tipo hay. 
++ Cuantos paquetes de qué tipo hay.
+# 3. Diseño de algoritmo 
 
-# 3. Codificación 
+
+# 4. Codificación 
 **Lenguaje C**
 ```c
 #include <stdio.h> 

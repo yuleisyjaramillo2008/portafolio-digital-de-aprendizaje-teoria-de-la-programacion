@@ -148,3 +148,14 @@ int main () {
 |  | 4 | 4 | 10 | 13 | N |  16.25 | 116.25 | 1 | 1 | 2 | Costo Total: 116.25 <br> 1 es un fragil <br> 1 es peligoso <br> 2 son normales |
 
 ## 5.2. Ejecición del programa 
+<div align="center"><img src="Imagenes/Captura de pantalla 2026-06-09 175317.png" width="60%"></div>
+
+<br>
+
+<div align="center"><img src="Imagenes/Captura de pantalla 2026-06-09 175336.png" width="60%"></div>
+
+<br>
+
+<div align="center"><img src="Imagenes/Captura de pantalla 2026-06-09 175350.png" width="60%"></div>
+
+<br>

@@ -146,3 +146,5 @@ int main () {
 |  | 4 | 4 | 10 | 13 | N |  16.25 | 100 | 1 | 1 | 2 | |
 |  | 4 | 4 | 10 | 13 | N |  16.25 | 116.25 | 1 | 1 | 2 | Costo individual: 16.25 |
 |  | 4 | 4 | 10 | 13 | N |  16.25 | 116.25 | 1 | 1 | 2 | Costo Total: 116.25 <br> 1 es un fragil <br> 1 es peligoso <br> 2 son normales |
+
+## 5.2. Ejecición del programa 

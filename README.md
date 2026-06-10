@@ -40,8 +40,8 @@ Para explorar los contenidos, resúmenes y ejercicios prácticos. haz clic en el
 
 ### 🟡 UNIDAD 2
 
-> * 📚 **[Contenidos](./Unidad-2/Contenido.md)**
-> * 💻 **[Ejercicio](./Unidad-2/Ejercicios.md)**
+> * 📚 **[Contenidos](./Unidad-2/Contenidos.md)**
+> * 💻 **[Ejercicio](./Unidad-2/Ejercicio.md)**
 
 ---
 

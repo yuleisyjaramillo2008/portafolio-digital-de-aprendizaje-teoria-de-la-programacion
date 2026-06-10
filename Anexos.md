@@ -28,7 +28,7 @@ Por la presente afirmo que se ha usado la ia como una guía en la elaboración d
 <!-- MENÚ DE RETORNO POR UNIDAD -->
 <p align="right">
   <b>Volver a mi Unidad:</b><br>
-  <a href="Unidad-1/Ejercicio.md"><code>◀ Ejercicios Unidad 1</code></a> | 
+  <a href="Unidad-1/Ejercicios.md"><code>◀ Ejercicios Unidad 1</code></a> | 
   <a href="Unidad-2/Ejercicio.md"><code>◀ Ejercicios Unidad 2</code></a> | 
-  <a href="Unidad-3/Ejercicio.md"><code>◀ Ejercicios Unidad 3</code></a>
+  <a href="Unidad-3/Ejercicios.md"><code>◀ Ejercicios Unidad 3</code></a>
 </p>

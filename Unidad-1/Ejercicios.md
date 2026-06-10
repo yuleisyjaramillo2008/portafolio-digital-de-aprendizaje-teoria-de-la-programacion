@@ -1,3 +1,4 @@
+<a href="Contenido-temas.md"><code>◀ Regresar a Contenidos</code></a>
 <div align="center">
   <img src="../Imagenes/ejerciciosConEstructuraSecuencial.png" 
 width="100%">

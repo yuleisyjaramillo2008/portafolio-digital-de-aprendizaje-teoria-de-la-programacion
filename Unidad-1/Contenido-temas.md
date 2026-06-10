@@ -223,7 +223,7 @@ width="50%">
 <p align="right">
   <a href="../README.md"><code>◀ Regresar al Índice</code></a>
   <a href="#top"><code>▲ Subir</code></a>
-  <a href="Ejercicio.md"><code>Siguiente ▶</code></a>
+  <a href="Ejercicios.md"><code>Siguiente ▶</code></a>
 </p>
  
 

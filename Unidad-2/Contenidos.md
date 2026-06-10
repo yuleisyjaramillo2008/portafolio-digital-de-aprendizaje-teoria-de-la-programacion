@@ -123,3 +123,9 @@ En pseudocódigo se representa en Ciclo Para como "Para":
 <div align="center"><img src="Imagenes/carbon (3).png" width="50%"></div>
 
 <br>
+
+<p align="right">
+  <a href="../README.md"><code>◀ Regresar</code></a>
+  <a href="#top"><code>▲ Subir</code></a>
+  <a href="Ejercicio.md"><code>Siguiente ▶</code></a>
+</p>

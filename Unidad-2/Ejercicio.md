@@ -1,3 +1,5 @@
+<a href="../README.md"><code>◀ Regresar</code></a>
+
 <div align="center"><img src="Título.png" width="100%"></div>
 
 <br>
@@ -163,3 +165,10 @@ int main () {
 # Principales dificultades y reflexión crítica en la aplicación de los contenidos.
 Analizado los conocimientos al momento de realizar este portafolio, se ha identificado dificultad en lo que es la correcta aplicación de estas estructuras condicionales y repetitivas. <br>
 Sin embargo, considero que todos los temas vistos en esta unidad son de gran importancia en la programación, ya que, no solo nos permite solucionar los problemas que lo requieran, sino, que también nos permiten ahorrar espacio en al momento de elaborar el código, es decir, con esto se puede optimizar los algoritmos. 
+
+<p align="right">
+  <a href="../README.md"><code>◀ Regresar</code></a>
+  <a href="#top"><code>▲ Subir</code></a>
+  <a href="../Anexos.md"><code>Siguiente ▶</code></a>
+</p>
+

@@ -54,5 +54,5 @@ Para explorar los contenidos, resúmenes y ejercicios prácticos. haz clic en el
 
 ### 🗒️ ANEXOS
 
-> * 💡 **[Bibliogrfía, concluciónes y declaración de uso de ia](./Anexos.md)**
+> * 💡 **[Bibliogrfía, conclusiónes y declaración de uso de ia](./Anexos.md)**
 > * Contenido en desarrollo...* 

@@ -1,4 +1,4 @@
-<a href="../README.md"><code>◀ Regresar</code></a>
+<a href="Contenidos.md"><code>◀ Regresar a Contenidos</code></a>
 
 <div align="center"><img src="Título.png" width="100%"></div>
 
@@ -166,9 +166,18 @@ int main () {
 Analizado los conocimientos al momento de realizar este portafolio, se ha identificado dificultad en lo que es la correcta aplicación de estas estructuras condicionales y repetitivas. <br>
 Sin embargo, considero que todos los temas vistos en esta unidad son de gran importancia en la programación, ya que, no solo nos permite solucionar los problemas que lo requieran, sino, que también nos permiten ahorrar espacio en al momento de elaborar el código, es decir, con esto se puede optimizar los algoritmos. 
 
+<!-- BOTÓN CENTRAL LLAMATIVO PARA EL README -->
+<p align="center">
+  <a href="../README.md">
+    <img src="https://shields.io🏠_Volver_al_Índice_Principal-README-blue?style=for-the-badge&logo=github" alt="README">
+  </a>
+</p>
+
+<!-- BOTONES DE FLUJO ABAJO A LA DERECHA -->
 <p align="right">
-  <a href="../README.md"><code>◀ Regresar</code></a>
+  <a href="Contenidos.md"><code>◀ Regresar a Contenidos</code></a>
   <a href="#top"><code>▲ Subir</code></a>
   <a href="../Anexos.md"><code>Siguiente ▶</code></a>
 </p>
+
 

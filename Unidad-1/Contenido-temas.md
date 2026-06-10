@@ -1,3 +1,5 @@
+<a href="../README.md"><code>◀ Regresar al Índice (README)</code></a>
+
 <div align="center">
   <img src="../Contenidos.png" 
 width="100%">
@@ -7,13 +9,14 @@ width="100%">
 
 # 1. Algoritmo
 ## 1.1. Definición
-A los algoritmos se los puede definir como una serie de pasos o intrucciónes que mediante un **orden secuencial** que permiten resolver problemas o realizar tareas específicas. 
+A los algoritmos se los puede definir como una serie de pasos o instrucciones que mediante un **orden secuencial** que permiten resolver problemas o realizar tareas específicas. 
 ## 1.2. Pasos para resolver problemas
 * **Análisis del problema:** Identificar datos de entrada, proceso y salida.
 * **Diseño (algoritmo):** Determina cómo realiza el programa (Pseudocódigo y Diagramas de Flujo).
 * **Codificación:** Traduce el diseño a un lenguaje de programación.
-* **Pruebas:** Elimonación de errores. 
+* **Pruebas:** Eliminación de errores. 
 * **Documentación y mantenimiento:** Evidenciar todo lo trabajado en un documento.
+
 ## 1.3. Clasificación 
 | Tipo de algoritmo | Describción | Ejemplos |
 | :--- |:--- |:--- |
@@ -216,7 +219,13 @@ width="50%">
 
 <br>
 
-Has clik para continuar con la presentación del trabajo [Ejercicio](Ejercicios.md)  
+
+<p align="right">
+  <a href="../README.md"><code>◀ Regresar al Índice</code></a>
+  <a href="#top"><code>▲ Subir</code></a>
+  <a href="Ejercicio.md"><code>Siguiente ▶</code></a>
+</p>
+ 
 
 
 

@@ -73,7 +73,42 @@ void calcularCirculo(float radio, float *resultadoArea, float *resultadoPerimetr
 
 ```
 
+# 📦Arreglo
+Los arreglos son una forma de guardar datos facilitando el acceso a los elementos (índices).
+## Unidimensionales 
+Solo tiene una fial y columnas.
+'''c
+#include <stdio.h>
 
+int main() {
+    // 1. Declarar e inicializar el arreglo unidimensional con 5 elementos
+    int calificaciones[5] = {85, 90, 78, 92, 88};
+    
+    // Variables para el cálculo del promedio
+    float suma = 0;
+    float promedio = 0.0;
+
+    printf("--- Notas del Estudiante ---\n");
+
+    // 2. Recorrer el arreglo usando un bucle 'for'
+    for (int i = 0; i < 5; i++) {
+        // Acceder a cada elemento usando su índice (empezando desde 0)
+        printf("Evaluacion %d: %d\n", i + 1, calificaciones[i]);
+        
+
+        suma += calificaciones[i];
+    }
+
+   
+    promedio = suma / 5;
+
+    // 4. Mostrar el resultado final
+    printf("----------------------------\n");
+    printf("Promedio Final: %.2f\n", promedio);
+
+    return 0;
+}
+'''
 
 <br>
 

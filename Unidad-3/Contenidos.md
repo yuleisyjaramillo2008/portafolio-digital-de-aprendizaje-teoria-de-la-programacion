@@ -77,7 +77,7 @@ void calcularCirculo(float radio, float *resultadoArea, float *resultadoPerimetr
 Los arreglos son una forma de guardar datos facilitando el acceso a los elementos (índices).
 ## Unidimensionales 
 Solo tiene una fial y columnas.
-'''c
+```c
 #include <stdio.h>
 
 int main() {
@@ -102,14 +102,91 @@ int main() {
    
     promedio = suma / 5;
 
-    // 4. Mostrar el resultado final
     printf("----------------------------\n");
     printf("Promedio Final: %.2f\n", promedio);
 
     return 0;
 }
-'''
+```
+## Bidimensional
+Es un arreglo que tiene varias filas y columnas también se lo llama matriz.
+```c
+#include <stdio.h>
+int main() {
+    // 1. Declarar e Inicializar. 
+    int notas[3][4] = {
+        {85, 90, 78, 92}, // Estudiante 1
+        {70, 88, 95, 80}, // Estudiante 2
+        {92, 85, 89, 94}  // Estudiante 3
+    };
 
+    printf("--- Registro de Notas (Matriz) ---\n\n");
+
+    // 2. Recorrer la matriz usando bucles. 
+    // El bucle exterior controla las filas (Estudiantes)
+    for (int fila = 0; fila < 3; fila++) {
+        printf("Estudiante %d: ", fila + 1);
+        
+        int sumaEstudiante = 0;
+
+        // El bucle interior controla las columnas (Materias)
+        for (int col = 0; col < 4; col++) {
+            // Acceder al elemento usando [fila][columna]
+            printf("[%d] ", notas[fila][col]);
+            sumaEstudiante += notas[fila][col];
+        }
+
+        // Calcular y mostrar el promedio individual de este estudiante
+        float promedio = (float)sumaEstudiante / 4;
+        printf(" -> Promedio: %.2f\n", promedio);
+    }
+
+    printf("\n----------------------------------\n");
+    return 0;
+}
+```
+## Tridimencional 
+Arreglo que tiene varias filas, columnas y profundidad.
+Se declara primero las capas, luego las filas y finalmente las columnas, siendo de la siguiente manera: m[capas][filas][columnas].
+```c
+#include <stdio.h>
+
+int main() {
+    int colegios[2][3][4] = {
+        // Escuela 1 (Capa 0)
+        {
+            {85, 90, 78, 92}, // Estudiante 1
+            {70, 88, 95, 80}, // Estudiante 2
+            {92, 85, 89, 94}  // Estudiante 3
+        },
+        // Escuela 2 (Capa 1)
+        {
+            {90, 92, 85, 88}, // Estudiante 1
+            {75, 80, 70, 85}, // Estudiante 2
+            {88, 91, 93, 90}  // Estudiante 3
+        }
+    };
+
+    printf("--- Reporte Global de Calificaciones (3D) ---\n\n");
+
+    // Recorrer el arreglo usando tres bucles 'for' anidados
+    for (int escuela = 0; escuela < 2; escuela++) {
+        printf("==== SEDE / ESCUELA %d ====\n", escuela + 1);
+
+        for (int estudiante = 0; estudiante < 3; estudiante++) {
+            printf("  Estudiante %d: ", estudiante + 1);
+
+            for (int materia = 0; materia < 4; materia++) {
+                printf("[%d] ", colegios[escuela][estudiante][materia]);
+            }
+            printf("\n"); 
+        }
+        printf("\n"); 
+    }
+
+    return 0;
+}
+```
 <br>
 
 <p align="right">

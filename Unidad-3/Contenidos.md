@@ -224,5 +224,5 @@ int main() {
 <p align="right">
   <a href="../README.md"><code>◀ Regresar</code></a>
   <a href="#top"><code>▲ Subir</code></a>
-  <a href="Ejercicios.md"><code>Siguiente ▶</code></a>
+  <a href="../Anexos.md"><code>Siguiente ▶</code></a>
 </p>

@@ -36,6 +36,9 @@ void calcularArea(float base, float altura) {
 }
 
 ```
+#### Terminal
+![](Imagenes/Codigo1.png)
+
 + **Por referencia:** Aquí se envia la dirección de memoria de una variable de tal manera que todos los cambios que se haga dentro de la función afectara a la variable original.
 
 ```c
@@ -72,6 +75,10 @@ void calcularCirculo(float radio, float *resultadoArea, float *resultadoPerimetr
 
 
 ```
+#### Terminal 
+
+![](Imagenes/Codigo2.png)
+
 
 # 📦Arreglo
 Los arreglos son una forma de guardar datos facilitando el acceso a los elementos (índices).
@@ -107,6 +114,8 @@ int main() {
     return 0;
 }
 ```
+#### Terminal
+![](Imagenes/Codigo3.png)
 ## Bidimensional
 Es un arreglo que tiene varias filas y columnas también se lo llama matriz.
 ```c
@@ -146,6 +155,10 @@ int main() {
 }
 
 ```
+#### Terminal
+
+![](Imagenes/Codigo4.png)
+
 ## Tridimencional 
 Arreglo que tiene varias filas, columnas y profundidad.
 Se declara primero las capas, luego las filas y finalmente las columnas, siendo de la siguiente manera: m[capas][filas][columnas].
@@ -203,6 +216,9 @@ int main() {
 }
 
 ```
+### Terminal
+
+![](Imagenes/Codigo5.png)
 <br>
 
 <p align="right">

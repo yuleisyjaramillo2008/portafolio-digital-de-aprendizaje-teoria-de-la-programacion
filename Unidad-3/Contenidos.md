@@ -81,29 +81,28 @@ Solo tiene una fial y columnas.
 #include <stdio.h>
 
 int main() {
-    // 1. Declarar e inicializar el arreglo unidimensional con 5 elementos
-    int calificaciones[5] = {85, 90, 78, 92, 88};
+    // 1. Declarar e inicializar el arreglo unidimensional con las ventas de 7 días
+    float ventasDiarias[7] = {150.50, 230.00, 85.40, 310.20, 195.80, 420.00, 110.10};
     
-    // Variables para el cálculo del promedio
-    float suma = 0;
-    float promedio = 0.0;
+    float totalVentas = 0.0;
+    float promedioVentas = 0.0;
+    int diasExcelenteVenta = 0;
 
-    printf("--- Notas del Estudiante ---\n");
+    printf("--- HISTORIAL DE VENTAS DE LA SEMANA ---\n\n");
 
-    // 2. Recorrer el arreglo usando un bucle 'for'
-    for (int i = 0; i < 5; i++) {
-        // Acceder a cada elemento usando su índice (empezando desde 0)
-        printf("Evaluacion %d: %d\n", i + 1, calificaciones[i]);
+    // 2. Recorrer el vector
+    for (int numeroDia = 0; numeroDia < 7; numeroDia++) {
+        printf("Dia %d: $%.2f\n", numeroDia + 1, ventasDiarias[numeroDia]);
         
-
-        suma += calificaciones[i];
+        totalVentas += ventasDiarias[numeroDia];
     }
 
-   
-    promedio = suma / 5;
+    promedioVentas = totalVentas / 7;
 
-    printf("----------------------------\n");
-    printf("Promedio Final: %.2f\n", promedio);
+    printf("\n----------------------------------------\n");
+    printf("Total acumulado: $%.2f\n", totalVentas);
+    printf("Promedio diario: $%.2f\n", promedioVentas);
+    printf("----------------------------------------\n");
 
     return 0;
 }
@@ -112,38 +111,40 @@ int main() {
 Es un arreglo que tiene varias filas y columnas también se lo llama matriz.
 ```c
 #include <stdio.h>
+
 int main() {
-    // 1. Declarar e Inicializar. 
-    int notas[3][4] = {
-        {85, 90, 78, 92}, // Estudiante 1
-        {70, 88, 95, 80}, // Estudiante 2
-        {92, 85, 89, 94}  // Estudiante 3
+    // 0 = Libre, 1 = Ocupado
+    int salaCine[5][6] = {
+        {1, 1, 0, 0, 1, 1}, // Fila 1 (A)
+        {0, 0, 1, 1, 0, 0}, // Fila 2 (B)
+        {1, 0, 0, 0, 0, 1}, // Fila 3 (C)
+        {0, 0, 0, 0, 0, 0}, // Fila 4 (D)
+        {1, 1, 1, 1, 1, 1}  // Fila 5 (E)
     };
 
-    printf("--- Registro de Notas (Matriz) ---\n\n");
+    int asientosLibres = 0;
+    int asientosOcupados = 0;
 
-    // 2. Recorrer la matriz usando bucles. 
-    // El bucle exterior controla las filas (Estudiantes)
-    for (int fila = 0; fila < 3; fila++) {
-        printf("Estudiante %d: ", fila + 1);
-        
-        int sumaEstudiante = 0;
+    // Recorrer la matriz 
+    for (int numeroFila = 0; numeroFila < 5; numeroFila++) {
 
-        // El bucle interior controla las columnas (Materias)
-        for (int col = 0; col < 4; col++) {
-            // Acceder al elemento usando [fila][columna]
-            printf("[%d] ", notas[fila][col]);
-            sumaEstudiante += notas[fila][col];
+        for (int numeroColumna = 0; numeroColumna < 6; numeroColumna++) {
+            // Validar el estado del asiento utilizando la matriz corregida
+            if (salaCine[numeroFila][numeroColumna] == 0) {
+                asientosLibres++;
+            } else {
+                asientosOcupados++;
+            }
         }
-
-        // Calcular y mostrar el promedio individual de este estudiante
-        float promedio = (float)sumaEstudiante / 4;
-        printf(" -> Promedio: %.2f\n", promedio);
     }
 
-    printf("\n----------------------------------\n");
+    printf("Asientos Libres (L): %d\n", asientosLibres);
+    printf("Asientos Ocupados (X): %d\n", asientosOcupados);
+   
+
     return 0;
 }
+
 ```
 ## Tridimencional 
 Arreglo que tiene varias filas, columnas y profundidad.
@@ -152,40 +153,55 @@ Se declara primero las capas, luego las filas y finalmente las columnas, siendo 
 #include <stdio.h>
 
 int main() {
-    int colegios[2][3][4] = {
-        // Escuela 1 (Capa 0)
+    // Pago por hora de trabajo en dólares
+    const float pagoHora= 10.00;
+
+    // Arreglo 3D: [2 Sucursales] x [3 Trabajadores] x [5 Dias Laborales]
+    int horasTrabajadas[2][3][5] = {
+        // SUCURSAL 1 (Capa 0) - Norte
         {
-            {85, 90, 78, 92}, // Estudiante 1
-            {70, 88, 95, 80}, // Estudiante 2
-            {92, 85, 89, 94}  // Estudiante 3
+            {8, 8, 8, 8, 8},  // Trabajador 1 
+            {6, 7, 8, 6, 5},  // Trabajador 2 
+            {8, 8, 9, 8, 4}   // Trabajador 3 
         },
-        // Escuela 2 (Capa 1)
+        // SUCURSAL 2 (Capa 1) - Sur
         {
-            {90, 92, 85, 88}, // Estudiante 1
-            {75, 80, 70, 85}, // Estudiante 2
-            {88, 91, 93, 90}  // Estudiante 3
+            {8, 8, 0, 8, 8},  // Trabajador 1 
+            {8, 9, 8, 8, 8},  // Trabajador 2 
+            {5, 5, 5, 5, 5}   // Trabajador 3 
         }
     };
 
-    printf("--- Reporte Global de Calificaciones (3D) ---\n\n");
+    printf("--- REPORTE DE HORAS Y NÓMINA SEMANAL ---\n\n");
 
-    // Recorrer el arreglo usando tres bucles 'for' anidados
-    for (int escuela = 0; escuela < 2; escuela++) {
-        printf("==== SEDE / ESCUELA %d ====\n", escuela + 1);
+    // Bucle exterior: Recorre las Sucursales
+    for (int i= 0; i < 2; i++) {
+        printf(" SUCURSAL %d\n", i + 1);
 
-        for (int estudiante = 0; estudiante < 3; estudiante++) {
-            printf("  Estudiante %d: ", estudiante + 1);
+        // Bucle medio: Recorre los Trabajadores
+        for (int j = 0; j < 3; j++) {
+            printf(" Trabajador %d -> ", j + 1);
+            
+            int totalHorasSemana = 0;
 
-            for (int materia = 0; materia < 4; materia++) {
-                printf("[%d] ", colegios[escuela][estudiante][materia]);
+            // Bucle interior: Recorre los 5 Días Laborales
+            for (int k = 0; k < 5; k++) {
+                // Acumular las horas trabajadas en la semana
+                totalHorasSemana += horasTrabajadas[i][j][k];
             }
-            printf("\n"); 
+
+            // Calcular el sueldo del fin de semana
+            float sueldoSemanal = totalHorasSemana * pagoHora;
+
+            // Mostrar el total de horas y el dinero a pagar
+            printf(" Total: %d hrs  Sueldo: $%.2f\n", totalHorasSemana, sueldoSemanal);
         }
-        printf("\n"); 
+        printf("\n");
     }
 
     return 0;
 }
+
 ```
 <br>
 

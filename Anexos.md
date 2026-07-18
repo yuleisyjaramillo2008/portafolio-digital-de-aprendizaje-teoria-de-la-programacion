@@ -7,6 +7,8 @@
 > Las estructuras condicionales son muy importante dentro de la programación, tanto para la resolución de problemas como en la obtimización de recursos, permitiendo que el código toma deciciones de ejecución en base a una condición. <br> 
 > Las estructuras repetitivas nos sirven más para lo que es la obtoimización de recursos al permitirnos ejecutar los mismos bloques de código en base a una condición. 
 ## Unidad 3
+> La modualridad es una forma eficionete de estructurar el código no solo al momento de hacerlo comprencible, sino que también ayuda a plantear la solución al ir de lo más general a lo más específico.
+> Los arreglos nos permite guardar información con el objetivo de ser reutilizada en el código es por esta razón que son muy útiles al momento de tener demaciada información. 
 # Bibliografía 
 [1]A. Duch, “Análisis de Algoritmos”. Disponible: https://www.cs.upc.edu/~duch/home/duch/analisis.pdf <br>
 ‌[2]A. Del Prado y N. Lamas, “Alternativas para la enseñanza de pseudocódigo y diagrama de flujo”. Disponible: https://exactas.unca.edu.ar/riecyt/VOL%205%20NUM%203/F%20%20SI%203%2014%20Trabajo%20Completo%20Fundamentos.pdf <br>

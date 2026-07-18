@@ -219,6 +219,15 @@ int main() {
 ### Terminal
 
 ![](Imagenes/Codigo5.png)
+
+# Principales dificultades y reflexión crítica en la aplicación de los contenidos.
+</div>
+
+<br>
+
+> Analizando los contenidos vistos y las practicas llevadas a cabo se define lo sigiente: En general debido a la buena explicación de los temas por parte del docente de la materia, se puede afirmar que en su mayoría no ha habido dificultades en la comprención de los temas de esta unidad, sin embargo se recalca que no todas las practicas han estado libres de dificultades, entre ellas esta el usor las matrices y la modularidad a la ves en un solo programa esto ha generado dificultades y comprención, sin embargo, con la guía del docente esto ha quedado más claro. 
+> En conclusión los temas han sido comprendidos de manera genral.  <br>
+
 <br>
 
 <p align="right">

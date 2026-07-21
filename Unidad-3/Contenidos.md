@@ -83,7 +83,9 @@ void calcularCirculo(float radio, float *resultadoArea, float *resultadoPerimetr
 # 📦Arreglo
 Los arreglos son una forma de guardar datos facilitando el acceso a los elementos (índices).
 ## Unidimensionales 
-Solo tiene una fial y columnas.
+Solo tiene una fila y columnas. <br>
+### Contexto: 
+Programa para calcular en una semana cuanto se ha vendido, su promedio y que dias las ventas han sifdo mejor.
 ```c
 #include <stdio.h>
 
@@ -118,6 +120,8 @@ int main() {
 ![](Imagenes/Codigo3.png)
 ## Bidimensional
 Es un arreglo que tiene varias filas y columnas también se lo llama matriz.
+### Contexto:
+Es un programa que nos permite saber cuantos asientos en una sala de cine estan libres o ocupados.
 ```c
 #include <stdio.h>
 
@@ -162,6 +166,8 @@ int main() {
 ## Tridimencional 
 Arreglo que tiene varias filas, columnas y profundidad.
 Se declara primero las capas, luego las filas y finalmente las columnas, siendo de la siguiente manera: m[capas][filas][columnas].
+### Contexto
+Es un programa que nos permite en una empresa saber cuantas horas y cuanto de sueldo hay que pagarles a los 3 empleados de las dos sucursales tomando en cuanta solo los valores de lunes a viernes.  
 ```c
 #include <stdio.h>
 

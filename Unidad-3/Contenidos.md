@@ -85,7 +85,8 @@ Los arreglos son una forma de guardar datos facilitando el acceso a los elemento
 ## Unidimensionales 
 Solo tiene una fila y columnas. <br>
 ### Contexto: 
-Programa para calcular en una semana cuanto se ha vendido, su promedio y que dias las ventas han sifdo mejor.
+Programa para calcular en una semana cuanto se ha vendido, su promedio y que dias las ventas han sifdo mejor. <br>
+Cada columna representa el dinero recaudado total en cada día. 
 ```c
 #include <stdio.h>
 
@@ -121,7 +122,8 @@ int main() {
 ## Bidimensional
 Es un arreglo que tiene varias filas y columnas también se lo llama matriz.
 ### Contexto:
-Es un programa que nos permite saber cuantos asientos en una sala de cine estan libres o ocupados.
+Es un programa que nos permite saber cuantos asientos en una sala de cine estan libres o ocupados. <br>
+Mediante las filas y columnas la posición de los asientos en la sala de cine. 
 ```c
 #include <stdio.h>
 
